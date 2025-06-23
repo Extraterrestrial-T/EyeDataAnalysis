@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MergedSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AsciiSetting>
+    <ColumnHeaders>
+      <string>ID</string>
+      <string>IMG</string>
+      <string>Time</string>
+      <string>X</string>
+      <string>Y</string>
+    </ColumnHeaders>
+    <Filename>E:\AR\Papers\Jeff-EyeTracker\Tyran-Data-Final\024-UTG\IMG-8-0.csv</Filename>
+    <ColumnAssignments>
+      <item>
+        <key>
+          <string>SubjectName</string>
+        </key>
+        <value>
+          <string />
+        </value>
+      </item>
+      <item>
+        <key>
+          <string>TrialSequence</string>
+        </key>
+        <value>
+          <string />
+        </value>
+      </item>
+      <item>
+        <key>
+          <string>TrialID</string>
+        </key>
+        <value>
+          <string />
+        </value>
+      </item>
+      <item>
+        <key>
+          <string>TrialImage</string>
+        </key>
+        <value>
+          <string />
+        </value>
+      </item>
+      <item>
+        <key>
+          <string>TrialCategory</string>
+        </key>
+        <value>
+          <string />
+        </value>
+      </item>
+      <item>
+        <key>
+          <string>Time</string>
+        </key>
+        <value>
+          <string>Time</string>
+        </value>
+      </item>
+      <item>
+        <key>
+          <string>PupilDiaX</string>
+        </key>
+        <value>
+          <string />
+        </value>
+      </item>
+      <item>
+        <key>
+          <string>PupilDiaY</string>
+        </key>
+        <value>
+          <string />
+        </value>
+      </item>
+      <item>
+        <key>
+          <string>GazePosX</string>
+        </key>
+        <value>
+          <string>X</string>
+        </value>
+      </item>
+      <item>
+        <key>
+          <string>GazePosY</string>
+        </key>
+        <value>
+          <string>Y</string>
+        </value>
+      </item>
+      <item>
+        <key>
+          <string>MousePosX</string>
+        </key>
+        <value>
+          <string />
+        </value>
+      </item>
+      <item>
+        <key>
+          <string>MousePosY</string>
+        </key>
+        <value>
+          <string />
+        </value>
+      </item>
+    </ColumnAssignments>
+    <IgnoreSmallLines>false</IgnoreSmallLines>
+    <IgnoreNotNumeralLines>true</IgnoreNotNumeralLines>
+    <ColumnSeparatorCharacter>44</ColumnSeparatorCharacter>
+    <DecimalSeparatorCharacter>46</DecimalSeparatorCharacter>
+    <IgnoreQuotes>true</IgnoreQuotes>
+    <IgnoreQuotationString>#</IgnoreQuotationString>
+    <UseQuotes>false</UseQuotes>
+    <UseQuotationString>EFIX</UseQuotationString>
+    <IgnoreTriggerStringLines>true</IgnoreTriggerStringLines>
+    <IgnoreTriggerString>Keyboard</IgnoreTriggerString>
+    <ColumnTitlesAtFirstRow>true</ColumnTitlesAtFirstRow>
+    <StartTime>2</StartTime>
+  </AsciiSetting>
+  <DetectionSetting>
+    <ImageDictionary />
+    <ImportType>Rawdata</ImportType>
+    <SavedSettings>false</SavedSettings>
+    <StimuliFileExtension>bmp</StimuliFileExtension>
+    <StimuliImportFile />
+    <StimuliImportMode>SearchForImageEnding</StimuliImportMode>
+    <SubjectName>P0</SubjectName>
+    <TimeFactor>1</TimeFactor>
+    <TrialIDToImageAssignments />
+    <TrialImportFile />
+    <TrialImportMode>UseMSGLines</TrialImportMode>
+    <TrialSequenceToStarttimeAssignments>
+      <item>
+        <key>
+          <int>0</int>
+        </key>
+        <value>
+          <long>2</long>
+        </value>
+      </item>
+    </TrialSequenceToStarttimeAssignments>
+    <TrialSequenceToTrialIDAssignments>
+      <item>
+        <key>
+          <int>0</int>
+        </key>
+        <value>
+          <int>0</int>
+        </value>
+      </item>
+    </TrialSequenceToTrialIDAssignments>
+    <TrialTriggerString>MSG</TrialTriggerString>
+  </DetectionSetting>
+</MergedSettings>
